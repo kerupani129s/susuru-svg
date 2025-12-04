@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- MIT License https://github.com/kerupani129s/susuru-svg/blob/main/LICENSE -->
+<svg xmlns="http://www.w3.org/2000/svg" width="1920" height="1080" viewBox="-80 -90 5920 3400">
+  <g font-size="280" font-family="serif" font-weight="bold" fill="black" stroke-width="40" stroke-linejoin="round" stroke="white" paint-order="stroke" style="writing-mode: vertical-rl; text-orientation: upright;">
+    <!-- Firefox では <tspan> 要素で lengthAdjust 属性を使用不可 Bug 890692 https://bugzilla.mozilla.org/show_bug.cgi?id=890692 -->
+    <text x="5600" y="0" textLength="3240" lengthAdjust="spacingAndGlyphs">こちらが<tspan style="text-orientation: mixed;"> </tspan>濃厚とんこつ豚無双さんの</text>
+    <text x="5280" y="0" textLength="3240" lengthAdjust="spacingAndGlyphs">濃厚無双ラーメン<tspan style="text-orientation: mixed;"> </tspan>海苔トッピングです</text>
+    <text x="4960" y="0" textLength="3240" lengthAdjust="spacingAndGlyphs">うっひょ～～～～～～！</text>
+    <text x="4640" y="0" textLength="3240" lengthAdjust="spacingAndGlyphs">着席時<tspan style="text-orientation: mixed;"> </tspan>コップに水垢が付いていたのを見て</text>
+    <text x="4320" y="0" textLength="3240" lengthAdjust="spacingAndGlyphs">大きな声を出したら<tspan style="text-orientation: mixed;"> </tspan>店主さんからの誠意で</text>
+    <text x="4000" y="0" textLength="3240" lengthAdjust="spacingAndGlyphs">チャーシューをサービスしてもらいました</text>
+    <text x="3680" y="0" textLength="3240" lengthAdjust="spacingAndGlyphs">俺の動画次第でこの店潰す事だってできるんだぞって事で</text>
+    <text x="3360" y="0" textLength="3240" lengthAdjust="spacingAndGlyphs">いただきま～～～～す！まずはスープから</text>
+    <text x="3040" y="0" textLength="3240" lengthAdjust="spacingAndGlyphs">コラ～！</text>
+    <text x="2720" y="0" textLength="3240" lengthAdjust="spacingAndGlyphs">これでもかって位ドロドロの濃厚スープの中には</text>
+    <text x="2400" y="0" textLength="3240" lengthAdjust="spacingAndGlyphs">虫が入っており<tspan style="text-orientation: mixed;"> </tspan>怒りのあまり</text>
+    <text x="2080" y="0" textLength="3240" lengthAdjust="spacingAndGlyphs">卓上調味料を全部倒してしまいました～！</text>
+    <text x="1760" y="0" textLength="3240" lengthAdjust="spacingAndGlyphs">すっかり店側も立場を弁え<tspan style="text-orientation: mixed;"> </tspan>誠意のチャーシュー丼を貰った所で</text>
+    <text x="1440" y="0" textLength="3240" lengthAdjust="spacingAndGlyphs">お次に<tspan style="text-orientation: mixed;"> </tspan>圧倒的存在感の極太麺を</text>
+    <text x="1120" y="0" textLength="3240" lengthAdjust="spacingAndGlyphs">啜る～！<tspan style="text-orientation: mixed;"> </tspan>殺すぞ～！</text>
+    <text x="800"  y="0" textLength="3240" lengthAdjust="spacingAndGlyphs">ワシワシとした食感の麺の中には、髪の毛が入っており</text>
+    <text x="480"  y="0" textLength="3240" lengthAdjust="spacingAndGlyphs">さすがのSUSURUも<tspan style="text-orientation: mixed;"> </tspan>厨房に入って行ってしまいました～！</text>
+    <text x="160"  y="0" textLength="3240" lengthAdjust="spacingAndGlyphs">ちなみに、店主さんが土下座している様子は<tspan style="text-orientation: mixed;"> </tspan>ぜひサブチャンネルをご覧ください</text>
+  </g>
+</svg>
