@@ -2,26 +2,26 @@
 <!-- MIT License https://github.com/kerupani129s/susuru-svg/blob/main/LICENSE -->
 <svg xmlns="http://www.w3.org/2000/svg" width="1920" height="1080" viewBox="-80 -90 5920 3400">
   <!-- Safari では SVG 内で text-orientation が効かないため、glyph-orientation-vertical を使用 -->
-  <g font-size="280" font-family="serif" font-weight="bold" fill="black" stroke-width="40" stroke-linejoin="round" stroke="white" paint-order="stroke" glyph-orientation-vertical="0" style="writing-mode: vertical-rl; text-orientation: upright;">
+  <!-- Safari では font-feature-settings で縦書き関連の機能を有効化する必要あり -->
+  <g font-size="280" font-family="serif" font-weight="bold" fill="black" stroke-width="40" stroke-linejoin="round" stroke="white" paint-order="stroke" glyph-orientation-vertical="0" style="writing-mode: vertical-rl; font-feature-settings: 'vrt2', 'vert'; text-orientation: upright;">
     <!-- Firefox では <tspan> 要素で lengthAdjust 属性を使用不可 Bug 890692 https://bugzilla.mozilla.org/show_bug.cgi?id=890692 -->
-    <!-- Safari では長音記号「ー」/波ダッシュ「〜」/全角チルダ「～」が縦書き時に正しく表示されないため、glyph-orientation-vertical で応急処置 (TODO: 左右反転も必要) -->
     <text x="5600" y="0" textLength="3240" lengthAdjust="spacingAndGlyphs">こちらが<tspan glyph-orientation-vertical="90" style="text-orientation: sideways;"> </tspan>濃厚とんこつ豚無双さんの</text>
-    <text x="5280" y="0" textLength="3240" lengthAdjust="spacingAndGlyphs">濃厚無双ラ<tspan glyph-orientation-vertical="90">ー</tspan>メン<tspan glyph-orientation-vertical="90" style="text-orientation: sideways;"> </tspan>海苔トッピングです</text>
-    <text x="4960" y="0" textLength="3240" lengthAdjust="spacingAndGlyphs">うっひょ<tspan glyph-orientation-vertical="90">～～～～～～</tspan>！</text>
+    <text x="5280" y="0" textLength="3240" lengthAdjust="spacingAndGlyphs">濃厚無双ラーメン<tspan glyph-orientation-vertical="90" style="text-orientation: sideways;"> </tspan>海苔トッピングです</text>
+    <text x="4960" y="0" textLength="3240" lengthAdjust="spacingAndGlyphs">うっひょ～～～～～～！</text>
     <text x="4640" y="0" textLength="3240" lengthAdjust="spacingAndGlyphs">着席時<tspan glyph-orientation-vertical="90" style="text-orientation: sideways;"> </tspan>コップに水垢が付いていたのを見て</text>
     <text x="4320" y="0" textLength="3240" lengthAdjust="spacingAndGlyphs">大きな声を出したら<tspan glyph-orientation-vertical="90" style="text-orientation: sideways;"> </tspan>店主さんからの誠意で</text>
-    <text x="4000" y="0" textLength="3240" lengthAdjust="spacingAndGlyphs">チャ<tspan glyph-orientation-vertical="90">ー</tspan>シュ<tspan glyph-orientation-vertical="90">ー</tspan>をサ<tspan glyph-orientation-vertical="90">ー</tspan>ビスしてもらいました</text>
+    <text x="4000" y="0" textLength="3240" lengthAdjust="spacingAndGlyphs">チャーシューをサービスしてもらいました</text>
     <text x="3680" y="0" textLength="3240" lengthAdjust="spacingAndGlyphs">俺の動画次第でこの店潰す事だってできるんだぞって事で</text>
-    <text x="3360" y="0" textLength="3240" lengthAdjust="spacingAndGlyphs">いただきま<tspan glyph-orientation-vertical="90">～～～～</tspan>す！まずはス<tspan glyph-orientation-vertical="90">ー</tspan>プから</text>
-    <text x="3040" y="0" textLength="3240" lengthAdjust="spacingAndGlyphs">コラ<tspan glyph-orientation-vertical="90">～</tspan>！</text>
-    <text x="2720" y="0" textLength="3240" lengthAdjust="spacingAndGlyphs">これでもかって位ドロドロの濃厚ス<tspan glyph-orientation-vertical="90">ー</tspan>プの中には</text>
+    <text x="3360" y="0" textLength="3240" lengthAdjust="spacingAndGlyphs">いただきま～～～～す！まずはスープから</text>
+    <text x="3040" y="0" textLength="3240" lengthAdjust="spacingAndGlyphs">コラ～！</text>
+    <text x="2720" y="0" textLength="3240" lengthAdjust="spacingAndGlyphs">これでもかって位ドロドロの濃厚スープの中には</text>
     <text x="2400" y="0" textLength="3240" lengthAdjust="spacingAndGlyphs">虫が入っており<tspan glyph-orientation-vertical="90" style="text-orientation: sideways;"> </tspan>怒りのあまり</text>
-    <text x="2080" y="0" textLength="3240" lengthAdjust="spacingAndGlyphs">卓上調味料を全部倒してしまいました<tspan glyph-orientation-vertical="90">～</tspan>！</text>
-    <text x="1760" y="0" textLength="3240" lengthAdjust="spacingAndGlyphs">すっかり店側も立場を弁え<tspan glyph-orientation-vertical="90" style="text-orientation: sideways;"> </tspan>誠意のチャ<tspan glyph-orientation-vertical="90">ー</tspan>シュ<tspan glyph-orientation-vertical="90">ー</tspan>丼を貰った所で</text>
+    <text x="2080" y="0" textLength="3240" lengthAdjust="spacingAndGlyphs">卓上調味料を全部倒してしまいました～！</text>
+    <text x="1760" y="0" textLength="3240" lengthAdjust="spacingAndGlyphs">すっかり店側も立場を弁え<tspan glyph-orientation-vertical="90" style="text-orientation: sideways;"> </tspan>誠意のチャーシュー丼を貰った所で</text>
     <text x="1440" y="0" textLength="3240" lengthAdjust="spacingAndGlyphs">お次に<tspan glyph-orientation-vertical="90" style="text-orientation: sideways;"> </tspan>圧倒的存在感の極太麺を</text>
-    <text x="1120" y="0" textLength="3240" lengthAdjust="spacingAndGlyphs">啜る<tspan glyph-orientation-vertical="90">～</tspan>！<tspan glyph-orientation-vertical="90" style="text-orientation: sideways;"> </tspan>殺すぞ<tspan glyph-orientation-vertical="90">～</tspan>！</text>
+    <text x="1120" y="0" textLength="3240" lengthAdjust="spacingAndGlyphs">啜る～！<tspan glyph-orientation-vertical="90" style="text-orientation: sideways;"> </tspan>殺すぞ～！</text>
     <text x="800"  y="0" textLength="3240" lengthAdjust="spacingAndGlyphs">ワシワシとした食感の麺の中には、髪の毛が入っており</text>
-    <text x="480"  y="0" textLength="3240" lengthAdjust="spacingAndGlyphs">さすがのSUSURUも<tspan glyph-orientation-vertical="90" style="text-orientation: sideways;"> </tspan>厨房に入って行ってしまいました<tspan glyph-orientation-vertical="90">～</tspan>！</text>
+    <text x="480"  y="0" textLength="3240" lengthAdjust="spacingAndGlyphs">さすがのSUSURUも<tspan glyph-orientation-vertical="90" style="text-orientation: sideways;"> </tspan>厨房に入って行ってしまいました～！</text>
     <text x="160"  y="0" textLength="3240" lengthAdjust="spacingAndGlyphs">ちなみに、店主さんが土下座している様子は<tspan glyph-orientation-vertical="90" style="text-orientation: sideways;"> </tspan>ぜひサブチャンネルをご覧ください</text>
   </g>
 </svg>
