@@ -2,7 +2,8 @@
 <!-- MIT License https://github.com/kerupani129s/susuru-svg/blob/main/LICENSE -->
 <svg xmlns="http://www.w3.org/2000/svg" width="1920" height="1080" viewBox="-80 -90 5920 3400">
   <!-- WebKit (Safari 等) では font-feature-settings で縦書き関連の機能を有効化する必要あり -->
-  <g font-size="280" font-family="serif" font-weight="bold" fill="black" stroke-width="40" stroke-linejoin="round" stroke="white" paint-order="stroke" style="writing-mode: vertical-rl; font-feature-settings: 'vrt2', 'vert';" lang="ja">
+  <!-- Gecko (Firefox 等) では vrt2 機能を有効化すると半角文字の text-orientation が正しく扱われないため、vert と vrtr を有効化する -->
+  <g font-size="280" font-family="serif" font-weight="bold" fill="black" stroke-width="40" stroke-linejoin="round" stroke="white" paint-order="stroke" style="writing-mode: vertical-rl; font-feature-settings: 'vert', 'vrtr';" lang="ja">
     <!-- Gecko (Firefox 等) では <tspan> 要素で lengthAdjust 属性を使用不可 Bug 890692 https://bugzilla.mozilla.org/show_bug.cgi?id=890692 -->
     <text x="5600" y="0" textLength="3240" lengthAdjust="spacingAndGlyphs">こちらが 濃厚とんこつ豚無双さんの</text>
     <text x="5280" y="0" textLength="3240" lengthAdjust="spacingAndGlyphs">濃厚無双ラーメン 海苔トッピングです</text>
