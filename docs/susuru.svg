@@ -1,5 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
-<!-- MIT License https://github.com/kerupani129s/susuru-svg/blob/main/LICENSE -->
+<!--
+  Copyright (c) 2025 ケルパニ＠猫
+  Licensed under the MIT License.
+  https://github.com/kerupani129s/susuru-svg/blob/main/LICENSE
+-->
 <svg xmlns="http://www.w3.org/2000/svg" width="1920" height="1080" viewBox="-80 -90 5920 3400">
   <!-- WebKit (Safari 等) では font-feature-settings で縦書き関連の機能を有効化する必要あり -->
   <!-- Gecko (Firefox 等) では vrt2 機能を有効化すると半角文字の text-orientation が正しく扱われないため、vert と vrtr を有効化する -->
